@@ -1,7 +1,4 @@
-# Save this code in a file with .py extension (e.g., "birthday_larissa.py")
-# Make sure you have Python installed on your computer
-# Open command prompt/terminal in the folder containing this file
-# Run the command: python birthday_larissa.py
+
 
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -139,12 +136,4 @@ and when that day finally comes, when I can hold you again I swear I’ll never 
 
 if __name__ == "__main__":
     create_birthday_gui()
-
-# To run this program:
-# 1. Save this file as "birthday_larissa.py"
-# 2. Make sure Python is installed on your computer
-# 3. Open command prompt/terminal
-# 4. Navigate to the folder containing this file
-# 5. Type: python birthday_larissa.py
-# 6. Press Enter
 
